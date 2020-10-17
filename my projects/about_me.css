@@ -1,0 +1,37 @@
+.{
+padding: 0;
+margin: 0;
+}
+.navbar-custom{
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+header{
+	height: 50px;
+	padding: 40px 0;
+}
+ .nav li a:hover{
+ 	background: lightgreen;
+ }
+ .block-a{
+ 	font-size: 20px;
+ 	margin: 20px 0;
+ 	border-top: 1px solid grey;
+ 	border-bottom:1px solid grey;
+ }
+ .joke
+ {
+  color: orange;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  font-style: italic;
+ }
+ .col-md-6 img{
+ 	margin: 20px 40px;
+ 	border-radius: 50px;
+ }
